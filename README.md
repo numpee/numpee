@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to Numpee 👋
+
+
+
+_"Because it's pronounced Num-pie"_
 
 <!--
 **numpee/numpee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
