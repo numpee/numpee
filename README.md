@@ -1,6 +1,6 @@
 ### Welcome to Numpee 👋
 
-
+![](https://komarev.com/ghpvc/?username=numpee)
 
 _"Because it's pronounced Num-pie"_
 
